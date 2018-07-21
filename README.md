@@ -10,3 +10,4 @@ Không make sure là có thể có ích với phần còn lại của thế gi�
 
 1. [String format & join](/basic_examples/String.md)
 
+2. [Boolean & conditional](/basic_examples/Boolean.md)
